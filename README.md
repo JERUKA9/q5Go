@@ -158,3 +158,13 @@ viewed through a menu option.
 
 On Windows, download the Qt tools and import the q5go.pro project file
 into Qt Creator.
+
+On Ubuntu install following packages :
+
+sudo apt-get install qtcreator
+
+sudo apt-get install qtdeclarative5-dev
+
+sudo apt-get install qtmultimedia5-dev
+
+Open pro file with qt creator then compile.
